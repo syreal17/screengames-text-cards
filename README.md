@@ -1,19 +1,20 @@
-# Greenfield Against Humanity
+# Screengames Text Cards
 
-An online multiplayer version of Cards Against Humanity.  Submit to your indecency.
+Forked from not-kosher/greenfield-against-humanity with the intention of using this code as a starting point for making a website that hosts private, remote, shared boardgaming experiences.
+
+Most of the README from Greenfield Against Humanity I've kept so far (27 April 2020); even so, please see that repo for the fullest technical description.
+
+
 
 ## Introduction
 
-Greenfield Against Humanity is a way to play your favorite game online with your friends or with strangers.  Create and join game rooms, and set the number of points it takes to win based on how long you want to play!  Custom deck creation coming soon!
+The short-term goal for this repo is to provide a decent means to shared a textual card deck between multiple remote parties (viz. screens). This will involve modifying mechanics of revealing cards and replacing the deck with the Imaginiff deck. The last short-term goal is to embed an ARENA viewer into the page to share a view of the same virtual dice... {TODO: make issues for these things}
 
-## Demo
-Video demo coming soon!
 
-![alt text](https://i.imgur.com/ym5Xvxv.png "In-game screenshot")
 
 ## Usage
 
-A production build for this application is available here:
+A production build for the upstream application is available here:
 
 https://limitless-beyond-58814.herokuapp.com/
 
